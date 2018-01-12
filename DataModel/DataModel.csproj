@@ -53,6 +53,7 @@
     <Compile Include="client.cs" />
     <Compile Include="country.cs" />
     <Compile Include="DatabaseContext.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Enums\IOActions.cs" />
     <Compile Include="FeaturedItems.cs" />
     <Compile Include="Colours.cs" />
